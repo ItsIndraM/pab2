@@ -1,14 +1,13 @@
 {
   "project_info": {
-    "project_number": "283394285640",
-    "firebase_url": "https://mdp-gold-9398b-default-rtdb.firebaseio.com",
-    "project_id": "mdp-gold-9398b",
-    "storage_bucket": "mdp-gold-9398b.firebasestorage.app"
+    "project_number": "150984937706",
+    "project_id": "notes-d10e4",
+    "storage_bucket": "notes-d10e4.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283394285640:android:e02244b198aaccb932387d",
+        "mobilesdk_app_id": "1:150984937706:android:b823f4cb8f9d5752698793",
         "android_client_info": {
           "package_name": "com.example.notes"
         }
@@ -16,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyB5hAvcM3Wu8qVT_d5zBk7Y2U0f3bCkVAo"
+          "current_key": "AIzaSyD_i4N4sR-w4Rq5KvkamqmZARzq1PX44mY"
         }
       ],
       "services": {
